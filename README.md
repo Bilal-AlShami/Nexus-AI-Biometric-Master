@@ -1,15 +1,29 @@
+إليك ترجمة النص إلى اللغة الإنجليزية مع الاحتفاظ بالنسخة العربية كما فعلنا سابقاً:
+### Project Files Execution Order
+Follow this order to run or test the system:
+1.  **Phase 1 (Data Download)**: > [**Download Data**](https://drive.google.com/file/d/1X2hQ8ovxYwCv3Lz1l5Mt_zCzKSJHnYqp/view?usp=drive_link)
+2.  **Phase 2 (Install Requirements)**: Execute the command `pip install -r requirements.txt`.
+3.  **Phase 3 (Training)**: Run `train_colab.ipynb` to train the models on your own data.
+4.  **Phase 4 (Load Models)**: Run `age_app.py` and `gender_app.py` to load and test the models.
+5.  **Phase 5 (Main Execution)**: Run `combined_app.py` to open the integrated interface that combines all features.
+
+---
+### ترتيب تشغيل ملفات المشروع (Execution Order)
+اتبع هذا الترتيب لتشغيل النظام أو اختباره:
+1.  **المرحلة 1 (تحميل البيانات)**: > [**تحميل البيانات**](https://drive.google.com/file/d/1X2hQ8ovxYwCv3Lz1l5Mt_zCzKSJHnYqp/view?usp=drive_link)
+2.  **المرحلة 2 (تثبيت المتطلبات)**: تنفيذ أمر `pip install -r requirements.txt`.
+3.  **المرحلة 3 (التدريب)**: تشغيل `train_colab.ipynb`  لتدريب النماذج على بياناتك الخاصة.
+4.  **المرحلة 4 (تحميل النماذج)**: تشغيل `age_app.py` و `gender_app.py`  لتحميل النماذج واختبارها.
+5.  **المرحلة 5 (التشغيل الرئيسي)**: تشغيل `combined_app.py` لفتح الواجهة المتكاملة التي تجمع كل الميزات.
+
+---
+هل تحتاج إلى مساعدة في تنسيق هذا النص ليكون ضمن ملف `README.md` الخاص بمشروعك؟
 # 🦅 NEXUS // BIOMETRIC MASTER 💎
 > **"الذكاء الاصطناعي الذي يرى ما وراء الملامح"** | **"AI that sees beyond the features"**
 
 ---
 
-## 📥 Data Download | تحميل البيانات
-To run the project, you need the trained models and the dataset. You can download them from the following link:
-لإكمال تشغيل المشروع، ستحتاج إلى النماذج المدربة والبيانات. يمكنك تحميلها من الرابط التالي:
 
-> [**Download Dataset | تحميل البيانات**](https://drive.google.com/file/d/1X2hQ8ovxYwCv3Lz1l5Mt_zCzKSJHnYqp/view?usp=drive_link)
-
----
 
 ## 📖 نظرة شاملة على مشروع NEXUS
 مشروع **NEXUS** هو نظام استخباراتي بيومتري متكامل يجمع بين قوة الرؤية الحاسوبية (Computer Vision) وجمالية واجهات الخيال العلمي. يهدف النظام إلى تقديم تحليل لحظي ودقيق للحالة الإنسانية أمام الكاميرا.
@@ -32,7 +46,6 @@ To run the project, you need the trained models and the dataset. You can downloa
 
 ---
 
-<a name="english"></a>
 ## 📖 Comprehensive Project Overview
 **NEXUS** is an integrated biometric intelligence suite that merges high-performance computer vision with a futuristic Sci-Fi aesthetic. It provides precise, real-time insights into the human state.
 
