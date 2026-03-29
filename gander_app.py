@@ -11,7 +11,10 @@ from PyQt6.QtWidgets import (QApplication, QMainWindow, QWidget, QVBoxLayout,
                              QTabWidget, QFrame, QSizePolicy)
 from PyQt6.QtGui import QPixmap, QImage, QFont
 from PyQt6.QtCore import Qt, QThread, pyqtSignal
+from deepface import DeepFace
 
+# هذا الأمر سيقوم بتحميل نموذج العمر وتجهيزه تلقائياً
+model = DeepFace.build_model("Gander")
 # --- Model & Constants ---
 IMG_SIZE = 224
 MODEL_PATH = 'gender_model.h5'
