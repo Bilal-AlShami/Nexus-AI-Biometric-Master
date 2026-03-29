@@ -52,13 +52,10 @@ The system is built on a robust architecture to ensure peak performance:
 ```text
 Emotion-Recognition-System/
 ├── combined_app.py        # The Master Hub & Main UI
-├── app.py                 # Core GUI Logic (PyQt6)
 ├── age_app.py             # Focused Age Detection Logic
 ├── gander_app.py          # Focused Gender Detection Logic
-├── train_model.py         # Local Training Script
+├── train_colab.py         # Local Training Script
 ├── requirements.txt       # Essential Dependencies
-├── nexus_biometrics.db    # Professional SQLite Database
-└── models/                # AI Model Weights & Metadata
 ```
 
 ### Project Files Execution Order
