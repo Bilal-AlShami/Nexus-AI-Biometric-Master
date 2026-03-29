@@ -1,0 +1,12 @@
+numpy<2
+torch
+torchvision
+PyQt6
+opencv-python
+Pillow
+tqdm
+matplotlib
+tensorflow
+deepface
+SpeechRecognition
+pyaudio
