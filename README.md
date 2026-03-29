@@ -77,6 +77,11 @@ Follow this order to run or test the system:
 
 ---
 
-## 🛡️ License & Credit
+### 🛡️ الحقوق والترخيص
+تم التطوير بكل شغف بواسطة **المهندس بلال الشامي** 🦅💎
+
+---
+### 🛡️ License & Credit
 Developed with passion by **ENG.Bilal_Al-Shami** 🦅💎
 
+---
